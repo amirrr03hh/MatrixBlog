@@ -8,8 +8,7 @@
 
 ## 🌐 Live Demo
 
-👉 [View the live archive](https://amirrr03hh.github.io/MatrixBlog)  
-*(Replace `yourusername` with your GitHub username after deploying to Pages.)*
+👉 [View the live archive](https://amirrr03hh.github.io/MatrixBlog)
 
 ---
 
@@ -54,7 +53,7 @@ You can host this archive anywhere that serves static files. The easiest way is 
 
 1. Push the `index.html` file to a GitHub repository.
 2. Go to **Settings > Pages** and set the source to the root of the `main` branch.
-3. Your site will be live at `https://yourusername.github.io/repository-name/`.
+3. Your site will be live at `https://amirrr03hh.github.io/MatrixBlog/`.
 
 ---
 
@@ -68,6 +67,21 @@ All writings are original and explore themes of:
 - The nature of time, death, and consciousness
 - The Vatican, NASA, and camouflage agencies
 - Awakening and the path to freedom
+
+---
+
+## 👤 Credits
+
+- **Blog Writer:** Emily Croft
+- **Site Creator & Developer:** Amirali
+
+---
+
+## ☕ Support the Project
+
+If you find value in this archive and would like to support the continued work, you can send a donation in Monero (XMR) to the following address:
+
+`83fapjwm9mkBu55saysqCRBK1iJLFmQQGLWzqqhpr3WyFjfBUR2ac6B8cBrN4spnp4iVPwwyEG6tmcAtJNiRvQ96CrwF6fi`
 
 ---
 
@@ -92,4 +106,3 @@ This is a personal archive, but if you find a bug or have a suggestion, feel fre
 ---
 
 **Enjoy the journey.**  
-*“The secret is simple.”*
