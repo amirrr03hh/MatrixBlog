@@ -47,16 +47,6 @@
 
 ---
 
-## 📦 Deployment
-
-You can host this archive anywhere that serves static files. The easiest way is **GitHub Pages**:
-
-1. Push the `index.html` file to a GitHub repository.
-2. Go to **Settings > Pages** and set the source to the root of the `main` branch.
-3. Your site will be live at `https://amirrr03hh.github.io/MatrixBlog/`.
-
----
-
 ## 🧠 About the Content
 
 All writings are original and explore themes of:
