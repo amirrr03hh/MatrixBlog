@@ -8,7 +8,7 @@
 
 ## 🌐 Live Demo
 
-👉 [View the live archive](www.holoibiw.work.gd)
+👉 [View the live archive](https://holoibiw.work.gd)
 
 ---
 
